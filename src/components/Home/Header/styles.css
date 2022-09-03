@@ -1,0 +1,15 @@
+.home-header{
+    text-align:center;
+}
+
+
+.home-header h1{
+    color:green;
+    font-size:3rem;
+    margin-bottom:1rem;
+}
+
+.home-header h1 span{
+    color:greenyellow;
+};
+
